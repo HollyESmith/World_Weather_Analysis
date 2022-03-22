@@ -26,7 +26,7 @@ Using OpenWeatherMap, a random set of 2,000 latitudes and longitudes were create
 
 •	Current weather description
 
-## Deliverable 2: Create a Customer Travel Destinations Map!
+## Deliverable 2: Create a Customer Travel Destinations Map
 
 **Vacation Search**
 
@@ -50,4 +50,6 @@ And a map of the itinerary was created: (WeatherPy_travel_map.png):
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/97558998/159534711-5e56f599-13c9-4d1e-a67e-541983c9d681.png">
 
+## Summary
 
+This was a successful project! The PlanMyTrip app is up and running. However, a significant disadvantage of the current app is that it only pulls current weather data. If travelers wish to plan a vacation six months from now, the PlanMyTrip app would not be able to accommodate that need. I recommend a future project that encompasses pulling historical averages of weather data.
