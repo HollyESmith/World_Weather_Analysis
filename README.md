@@ -4,7 +4,7 @@
 
 The objectives of this challenge were:
 
-* add a weather description to weather data previously retrieved, 
+* add a weather description to weather data previously retrieved; 
 
 * create input statements for beta testers to enter their desired temperature ranges, which will be will be used to identify potential vacation destinations and nearby hotels; and 
 
