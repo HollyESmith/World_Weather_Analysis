@@ -30,11 +30,11 @@ Using OpenWeatherMap, a random set of 2,000 latitudes and longitudes were create
 
 **Vacation Search**
 
-First, a database of preferred cities, based on customers’ temperature range preferences, was created:
+First, a database of preferred cities based on customers’ temperature range preferences was created:
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/97558998/159534346-f51ffb0d-c12e-4016-a13f-8fe97fe805e2.png">
 
-Then, a map was created, showing customers’ destination city options with pop-up details (WeatherPy_vacation_map.png):
+Then, a map was created showing customers’ destination city options with pop-up details:
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/97558998/159534476-f6e416e7-d8d2-48b6-8414-e22b858ec8f7.png">
 
@@ -42,11 +42,11 @@ Then, a map was created, showing customers’ destination city options with pop-
 
 **Vacation Itinerary**
 
-Finally, a travel itinerary was developed based on customers’ chosen destination area (WeatherPy_travel_map_markers.png):
+Finally, a travel itinerary was developed based on customers’ chosen destination area):
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/97558998/159534638-1297bc7c-a1bb-4613-b369-6316c9475ee8.png">
 
-And a map of the itinerary was created: (WeatherPy_travel_map.png):
+And a map of the itinerary was created:
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/97558998/159534711-5e56f599-13c9-4d1e-a67e-541983c9d681.png">
 
